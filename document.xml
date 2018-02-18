@@ -1,12 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/">
 <rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
 	<cw:allowOverlap>false</cw:allowOverlap>
 </rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/15b4e08c-fcd0-49d4-a572-07eb0531698a">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/f7c0cd47-c6b0-4e60-b155-185a795e0c25"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q671859"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/0d55d75a-dbcd-4050-87d7-65dbeab2dc74"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:20:05.016Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:20:05.016Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q671859","uriForDisplay":"https://www.wikidata.org/entity/Q671859","uri":"http://www.wikidata.org/entity/Q671859","name":"Old Possum's Book of Practical Cats","repository":"wikidata","originalQueryString":"Old possum","description":"Book of poems by TS Eliot"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q671859","level":"m","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q671859"><cw:pubType xmlns:cw="http://cwrc.ca/ns/cw#">m</cw:pubType>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/title"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/f7c0cd47-c6b0-4e60-b155-185a795e0c25">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/c11fbaf0-16f6-4d84-be6d-19dfc1cdef79"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6eef6790-a74f-4cc8-956b-69206b052d23"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6eef6790-a74f-4cc8-956b-69206b052d23">
+	<rdf:value>xpointer(//title[@annotationId="ent_377"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/832a290e-897a-4982-9a5c-477cda78221e">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/db8b464b-bbff-451a-9a4a-7dfd5c927a70"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/56609282/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/9646bf5d-00af-4dc7-8060-adf52a20d68f"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:20:05.019Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:20:05.019Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/56609282/","uri":"http://viaf.org/viaf/56609282/","uriForDisplay":"https://viaf.org/viaf/56609282/","name":"Eliot, T.S. (Thomas Stearns), 1888-1965","repository":"VIAF","originalQueryString":"T. S. Eliot"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/56609282/","cert":"definite","type":"real"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/56609282/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/db8b464b-bbff-451a-9a4a-7dfd5c927a70">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/9ea1b311-eb4f-4823-b16a-fc7e9ccae945"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/ca3e96a5-9651-443a-bde8-22531e4efc3a"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/ca3e96a5-9651-443a-bde8-22531e4efc3a">
+	<rdf:value>xpointer(//persName[@annotationId="ent_380"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/e592309e-fb19-4218-bdfd-f120dd9dc7b9">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/2413e416-f0e1-4645-bda9-eb0c439f2dfd"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q7753074"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/fc2f5b52-14da-4a18-bbde-6a9aa9487585"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:20:05.020Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:20:05.020Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q7753074","uriForDisplay":"https://www.wikidata.org/entity/Q7753074","uri":"http://www.wikidata.org/entity/Q7753074","name":"The Naming of Cats","repository":"wikidata","originalQueryString":"The Naming of Cats","description":"Poem by T.S Eliot"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q7753074","level":"m","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q7753074"><cw:pubType xmlns:cw="http://cwrc.ca/ns/cw#">m</cw:pubType>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
+	<rdf:type rdf:resource="http://purl.org/dc/terms/title"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/2413e416-f0e1-4645-bda9-eb0c439f2dfd">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/876c4030-5d95-48d9-ae95-97b7389962d5"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/8132adf9-1e4e-4616-83c1-ea8e82873007"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/8132adf9-1e4e-4616-83c1-ea8e82873007">
+	<rdf:value>xpointer(//title[@annotationId="ent_381"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
 </rdf:RDF>
+
+
 
 
 
@@ -29,7 +112,7 @@
         </fileDesc>
         <encodingDesc>
             <appInfo>
-                <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0" notAfter="2018-02-18T09:04:48.931Z">
+                <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0" notAfter="2018-02-18T09:18:26.901Z">
                     <label>DOCX to TEI</label>
                 </application>
             </appInfo>
@@ -42,9 +125,9 @@
     </teiHeader>
     <text>
         <body>
-<pb n="1" facs="http://moziru.com/images/kittens-clipart-cat-eye-10.jpg"/>
+<pb n="1" facs="http://moziru.com/images/kittens-clipart-cat-eye-10.jpg"/><head><title annotationId="ent_377" ref="http://www.wikidata.org/entity/Q671859" level="m" cert="definite">OLD POSSUM'S BOOK OF PRACTICAL CATS</title></head><byline>by <docAuthor><persName annotationId="ent_380" ref="http://viaf.org/viaf/56609282/" cert="definite" type="real">T. S. Eliot</persName></docAuthor></byline>
             <div type="poem">
-                <head>THE NAMING OF CATS</head>
+                <head><title annotationId="ent_381" ref="http://www.wikidata.org/entity/Q7753074" level="m" cert="definite">The Naming of Cats</title></head>
                 <l>The Naming of Cats is a difficult matter,</l>
                 <l>It isn't just one of your holiday games;</l>
                 <l>You may think at first I'm as mad as a hatter</l>
@@ -78,7 +161,7 @@
                 <l>Deep and inscrutable singular Name.</l>
             </div>
             <pb n="2" facs="https://logoobject.com/wp-content/uploads/2017/12/Cat-Element-Logo-PNG.png"/><div type="poem">
-                <head>THE OLD GUMBIE CAT</head>
+                <head>The Old Gumbie Cat</head>
                 <lg>
                     <l>I have a Gumbie Cat in mind, her name is Jennyanydots;</l>
                     <l>Her coat is of the tabby kind, with tiger stripes and leopard spots.</l>
@@ -133,7 +216,7 @@
                 </lg>
             </div>
             <pb n="3" facs="http://clipart-library.com/img/1730262.png"/><div type="poem">
-                <head>GROWLTIGER'S LAST STAND</head>
+                <head>Growlingtiger's Last Stand</head>
                 <lg>
                     <l>Growltiger was a Bravo Cat, who travelled on a barge:</l>
                     <l>In fact he was the roughest cat that ever roamed at large.</l>
