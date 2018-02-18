@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
+<rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+</rdf:RDF>
+
+
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Old Possum's Book of Practical Cats</title>
+                <author>T. S. ELIOT</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>London: Faber and Faber,<date> December 1948</date> [ninth
+                    impression]</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0" notAfter="2018-02-18T09:04:48.931Z">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-02-18T08:10:29Z</date><name>Mihaela Ilovan</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+<pb n="1" facs="http://moziru.com/images/kittens-clipart-cat-eye-10.jpg"/>
+            <div type="poem">
+                <head>THE NAMING OF CATS</head>
+                <l>The Naming of Cats is a difficult matter,</l>
+                <l>It isn't just one of your holiday games;</l>
+                <l>You may think at first I'm as mad as a hatter</l>
+                <l>When I tell you, a cat must have THREE DIFFERENT NAMES.</l>
+                <l>First of all, there's the name that the family use daily,</l>
+                <l>Such as Peter, Augustus, Alonzo or James,</l>
+                <l>Such as Victor or Jonathan, George or Bill Bailey—</l>
+                <l>All of them sensible everyday names.</l>
+                <l>There are fancier names if you think they sound sweeter,</l>
+                <l>Some for the gentlemen, some for the dames:</l>
+                <l>Such as Plato, Admetus, Electra, Demeter—</l>
+                <l>But all of them sensible everyday names.</l>
+                <l>But I tell you, a cat needs a name that's particular,</l>
+                <l>A name that's peculiar, and more dignified,</l>
+                <l>Else how can he keep up his tail perpendicular,</l>
+                <l>Or spread out his whiskers, or cherish his pride?</l>
+                <l>Of names of this kind, I can give you a quorum,</l>
+                <l>Such as Munkustrap, Quaxo, or Coricopat,</l>
+                <l>Such as Bombalurina, or else Jellylorum—</l>
+                <l>Names that never belong to more than one cat.</l>
+                <l>But above and beyond there's still one name left over,</l>
+                <l>And that is the name that you never will guess;</l>
+                <l>The name that no human research can discover—</l>
+                <l>But THE CAT HIMSELF KNOWS, and will never confess.</l>
+                <l>When you notice a cat in profound meditation,</l>
+                <l>The reason, I tell you, is always the same:</l>
+                <l>His mind is engaged in a rapt contemplation</l>
+                <l>Of the thought, of the thought, of the thought of his name:</l>
+                <l>    His ineffable effable</l>
+                <l>    Effanineffable</l>
+                <l>Deep and inscrutable singular Name.</l>
+            </div>
+            <pb n="2" facs="https://logoobject.com/wp-content/uploads/2017/12/Cat-Element-Logo-PNG.png"/><div type="poem">
+                <head>THE OLD GUMBIE CAT</head>
+                <lg>
+                    <l>I have a Gumbie Cat in mind, her name is Jennyanydots;</l>
+                    <l>Her coat is of the tabby kind, with tiger stripes and leopard spots.</l>
+                    <l>All day she sits upon the stair or on the steps or on the mat:</l>
+                    <l>She sits and sits and sits and sits—and that's what makes a Gumbie Cat!</l>
+                </lg>
+                <lg>
+                    <l>But when the day's hustle and bustle is done,</l>
+                    <l>Then the Gumbie Cat's work is but hardly begun.</l>
+                    <l>And when all the family's in bed and asleep,</l>
+                    <l>She tucks up her skirts to the basement to creep.</l>
+                    <l>She is deeply concerned with the ways of the mice—</l>
+                    <l>Their behaviour's not good and their manners not nice;</l>
+                    <l>So when she has got them lined up on the matting,</l>
+                    <l>She teaches them music, crocheting and tatting.</l>
+                </lg>
+                <lg>
+                    <l>I have a Gumbie Cat in mind, her name is Jennyanydots;</l>
+                    <l>Her equal would be hard to find, she likes the warm and sunny spots.</l>
+                    <l>All day she sits beside the hearth or on the bed or on my hat:</l>
+                    <l>She sits and sits and sits and sits—and that's what makes a Gumbie Cat!</l>
+                </lg>
+                <lg>
+                    <l>But when the day's hustle and bustle is done,</l>
+                    <l>Then the Gumbie Cat's work is but hardly begun.</l>
+                    <l>As she finds that the mice will not ever keep quiet,</l>
+                    <l>She is sure it is due to irregular diet</l>
+                    <l>And believing that nothing is done without trying,</l>
+                    <l>She sets right to work with her baking and frying.</l>
+                    <l>She makes them a mouse-cake of bread and dried peas,</l>
+                    <l>And a <hi rend="italic">beautiful</hi> fry of lean bacon and cheese.</l>
+                </lg>
+                <lg>
+                    <l>I have a Gumbie Cat in mind, her name is Jennyanydots;</l>
+                    <l>The curtain-cord she likes to wind, and tie it into sailor-knots.</l>
+                    <l>She sits upon the window-sill, or anything that's smooth and flat:</l>
+                    <l>She sits and sits and sits and sits—and that's what makes a Gumbie Cat!</l>
+                </lg>
+                <lg>
+                    <l>But when the day's hustle and bustle is done,</l>
+                    <l>Then the Gumbie Cat's work is but hardly begun.</l>
+                    <l>She thinks that the cockroaches just need employment</l>
+                    <l>To prevent them from idle and wanton destroyment.</l>
+                    <l>So she's formed, from that lot of disorderly louts,</l>
+                    <l>A troop of well-disciplined helpful boy-scouts,</l>
+                    <l>With a purpose in life and a good deed to do—</l>
+                    <l>And she's even created a Beetles' Tattoo.</l>
+                </lg>
+                <lg>
+                    <l>So for Old Gumbie Cats let us now give three cheers—</l>
+                    <l>On whom well-ordered households depend, it appears.</l>
+                </lg>
+            </div>
+            <pb n="3" facs="http://clipart-library.com/img/1730262.png"/><div type="poem">
+                <head>GROWLTIGER'S LAST STAND</head>
+                <lg>
+                    <l>Growltiger was a Bravo Cat, who travelled on a barge:</l>
+                    <l>In fact he was the roughest cat that ever roamed at large.</l>
+                    <l>From Gravesend up to Oxford he pursued his evil aims,</l>
+                    <l>Rejoicing in his title of 'The Terror of the Thames'.</l>
+                </lg>
+                <lg>
+                    <l>His manners and appearance did not calculate to please;</l>
+                    <l>His coat was torn and seedy, he was baggy at the knees;</l>
+                    <l>One ear was somewhat missing, no need to tell you why,</l>
+                    <l>And he scowled upon a hostile world from one forbidding eye.</l>
+                </lg>
+                <lg>
+                    <l>The cottagers of Rotherhithe knew something of his fame;</l>
+                    <l>At Hammersmith and Putney people shuddered at his name.</l>
+                    <l>They would fortify the hen-house, lock up the silly goose,</l>
+                    <l>When the rumour ran along the shore: GROWLTIGER'S ON THE LOOSE!</l>
+                </lg>
+                <lg>
+                    <l>Woe to the weak canary, that fluttered from its cage;</l>
+                    <l>Woe to the pampered Pekinese, that faced Growltiger's rage;</l>
+                    <l>Woe to the bristly Bandicoot, that lurks on foreign ships,</l>
+                    <l>And woe to any Cat with whom Growltiger came to grips!</l>
+                </lg>
+                <lg>
+                    <l>But most to Cats of foreign race his hatred had been vowed;</l>
+                    <l>To Cats of foreign name and race no quarter was allowed.</l>
+                    <l>The Persian and the Siamese regarded him with fear—</l>
+                    <l>Because it was a Siamese had mauled his missing ear.</l>
+                </lg>
+                <lg>
+                    <l>Now on a peaceful summer night, all nature seemed at play,</l>
+                    <l>The tender moon was shining bright, the barge at Molesey lay.</l>
+                    <l>All in the balmy moonlight it lay rocking on the tide—</l>
+                    <l>And Growltiger was disposed to show his sentimental side.</l>
+                </lg>
+                <lg>
+                    <l>His bucko mate, GRUMBUSKIN, long since had disappeared,</l>
+                    <l>For to the Bell at Hampton he had gone to wet his beard;</l>
+                    <l>And his bosun, TUMBLEBRUTUS, he too had stol'n away—</l>
+                    <l>In the yard behind the Lion he was prowling for his prey.</l>
+                </lg>
+                <lg>
+                    <l>In the forepeak of the vessel Growltiger sate alone,</l>
+                    <l>Concentrating his attention on the Lady GRIDDLEBONE.</l>
+                    <l>And his raffish crew were sleeping in their barrels and their bunks—</l>
+                    <l>As the Siamese came creeping in their sampans and their junks.</l>
+                </lg>
+                <lg>
+                    <l>Growltiger had no eye or ear for aught but Griddlebone,</l>
+                    <l>And the Lady seemed enraptured by his manly baritone,</l>
+                    <l>Disposed to relaxation, and awaiting no surprise—</l>
+                    <l>But the moonlight shone reflected from a thousand bright blue eyes.</l>
+                </lg>
+                <lg>
+                    <l>And closer still and closer the sampans circled round,</l>
+                    <l>And yet from all the enemy there was not heard a sound.</l>
+                    <l>The lovers sang their last duet, in danger of their lives—</l>
+                    <l>For the foe was armed with toasting forks and cruel carving knives.</l>
+                </lg>
+                <lg>
+                    <l>Then GILBERT gave the signal to his fierce Mongolian horde;</l>
+                    <l>With a frightful burst of fireworks the Chinks they swarmed aboard.</l>
+                    <l>Abandoning their sampans, and their pullaways and junks,</l>
+                    <l>They battened down the hatches on the crew within their bunks.</l>
+                </lg>
+                <lg>
+                    <l>Then Griddlebone she gave a screech, for she was badly skeered;</l>
+                    <l>I am sorry to admit it, but she quickly disappeared.</l>
+                    <l>She probably escaped with ease, I'm sure she was not drowned—</l>
+                    <l>But a serried ring of flashing steel Growltiger did surround.</l>
+                </lg>
+                <lg>
+                    <l>The ruthless foe pressed forward, in stubborn rank on rank;</l>
+                    <l>Growltiger to his vast surprise was forced to walk the plank.</l>
+                    <l>He who a hundred victims had driven to that drop,</l>
+                    <l>At the end of all his crimes was forced to go ker-flip, ker-flop.</l>
+                </lg>
+                <lg>
+                    <l>Oh there was joy in Wapping when the news flew through the land;</l>
+                    <l>At Maidenhead and Henley there was dancing on the strand.</l>
+                    <l>Rats were roasted whole at Brentford, and at Victoria Dock,</l>
+                    <l>And a day of celebration was commanded in Bangkok.</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
