@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:bibo="http://purl.org/ontology/bibo/">
 <rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
 	<cw:allowOverlap>false</cw:allowOverlap>
@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/f7c0cd47-c6b0-4e60-b155-185a795e0c25"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q671859"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.131Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.661Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.131Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.661Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
@@ -37,9 +37,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/db8b464b-bbff-451a-9a4a-7dfd5c927a70"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/56609282/"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.133Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.663Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.133Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.663Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -64,9 +64,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/2413e416-f0e1-4645-bda9-eb0c439f2dfd"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q7753074"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.134Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.664Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.134Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.664Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
@@ -90,10 +90,10 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/82889ab9-989c-45bf-b190-5384df82f858">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/6bb9c642-988c-4e43-82d3-6f04a1fbc18f"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q19686"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/a4b6662e-5ce1-4b5b-8d81-f5af3a7d666d"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.136Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.665Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-18T09:28:47.136Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.665Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -114,7 +114,32 @@
 	<rdf:value>xpointer(//placeName[@annotationId="ent_565"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/7621db4a-302b-48ae-bf02-2f8981b1b765">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/cfa4e5cb-592c-4459-bcb6-88dcc06f6c27"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/2aa0fdb1-e9b2-4a87-b676-b190959e17c5"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/6dc360d3-44f3-424f-8706-10bfaf35448f"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.667Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T15:34:17.667Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"scholarNote"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/2aa0fdb1-e9b2-4a87-b676-b190959e17c5">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/cfa4e5cb-592c-4459-bcb6-88dcc06f6c27">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/29e9b018-cbd9-40f2-b621-e1887f4f006f"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/50a4ed2a-0939-4da3-b1d7-d8089020ee89"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/50a4ed2a-0939-4da3-b1d7-d8089020ee89">
+	<rdf:value>xpointer(//note[@annotationId="ent_768"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
 </rdf:RDF>
+
 
 
 
@@ -140,7 +165,7 @@
         </fileDesc>
         <encodingDesc>
             <appInfo>
-                <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0" notAfter="2018-02-18T09:27:09.083Z">
+                <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0" notAfter="2018-02-20T15:32:39.685Z">
                     <label>DOCX to TEI</label>
                 </application>
             </appInfo>
@@ -327,7 +352,9 @@
                     <l>Oh there was joy in Wapping when the news flew through the land;</l>
                     <l>At Maidenhead and Henley there was dancing on the strand.</l>
                     <l>Rats were roasted whole at Brentford, and at Victoria Dock,</l>
-                    <l>And a day of celebration was commanded in Bangkok.</l>
+                    <l>And a day of celebration was commanded in Bangkok<note annotationId="ent_768" type="scholarNote">
+                <p xmlns="http://www.tei-c.org/ns/1.0">This is the last word in the poem.</p>
+            </note>.</l>
                 </lg>
             </div>
         </body>
