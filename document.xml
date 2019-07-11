@@ -53,7 +53,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/head/title_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.542Z",
-	"dcterms:issued": "2019-07-11T22:09:54.973Z",
+	"dcterms:issued": "2019-07-11T22:31:39.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -127,7 +127,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/byline/docAuthor/persName_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.544Z",
-	"dcterms:issued": "2019-07-11T22:09:54.977Z",
+	"dcterms:issued": "2019-07-11T22:31:39.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -201,7 +201,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/head/title_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.551Z",
-	"dcterms:issued": "2019-07-11T22:09:54.977Z",
+	"dcterms:issued": "2019-07-11T22:31:39.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -275,7 +275,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg/l[4]/placeName_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.553Z",
-	"dcterms:issued": "2019-07-11T22:09:54.977Z",
+	"dcterms:issued": "2019-07-11T22:31:39.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -349,7 +349,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName[4]_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.555Z",
-	"dcterms:issued": "2019-07-11T22:09:54.978Z",
+	"dcterms:issued": "2019-07-11T22:31:39.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -423,7 +423,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName[3]_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.557Z",
-	"dcterms:issued": "2019-07-11T22:09:54.978Z",
+	"dcterms:issued": "2019-07-11T22:31:39.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -497,7 +497,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg[14]/l[4]/note_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.559Z",
-	"dcterms:issued": "2019-07-11T22:09:54.978Z",
+	"dcterms:issued": "2019-07-11T22:31:39.558Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -570,7 +570,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[19]/persName_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.561Z",
-	"dcterms:issued": "2019-07-11T22:09:54.978Z",
+	"dcterms:issued": "2019-07-11T22:31:39.558Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -643,7 +643,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[6]/persName[3]_20190711160433",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:33.563Z",
-	"dcterms:issued": "2019-07-11T22:09:54.978Z",
+	"dcterms:issued": "2019-07-11T22:31:39.558Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -716,7 +716,7 @@
 	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName[2]_20190711160449",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2019-07-11T22:04:49.737Z",
-	"dcterms:issued": "2019-07-11T22:09:54.978Z",
+	"dcterms:issued": "2019-07-11T22:31:39.558Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -760,6 +760,84 @@
 		"schema:softwareVersion": "1.0"
 	}
 }
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[3]/seg_20190711163111",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T22:31:11.918Z",
+	"dcterms:issued": "2019-07-11T22:31:39.558Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:classifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[3]/seg_20190711163111#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[3]/seg_20190711163111#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/l[3]/seg"
+		}
+	},
+	"oa:hasBody": [
+		{
+			"@type": "fabio:ControlledVocabulary",
+			"rdf:value": "https://cwrc.ca"
+		},
+		{
+			"dc:format": "text/xml",
+			"skos:altLabel": "fangs"
+		}
+	],
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
 ]]></rdf:Description></rdf:RDF></xenoData><encodingDesc>
             <appInfo> <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0" notAfter="2018-08-08T21:51:38.307Z"> <label>DOCX to TEI</label> </application> </appInfo>
         </encodingDesc>
@@ -774,7 +852,7 @@
                 <head><title ref="http://www.wikidata.org/entity/Q7753074" level="m" cert="definite">The Naming of Cats</title></head>
                 <l>The Naming of Cats is a difficult matter,</l>
                 <l>It isn't just one of your holiday games;</l>
-                <l>You may think at first I'm as mad as a hatter</l>
+                <l>You may think at first I'm as mad<seg ana="https://cwrc.ca" type="keyword"><term>fangs</term></seg> as a hatter</l>
                 <l>When I tell you, a cat must have THREE DIFFERENT NAMES.</l>
                 <l>First of all, there's the name that the family use daily,</l>
                 <l>Such as <persName>Peter</persName>, <persName>Augustus</persName>, Alonzo or <persName ref="http://dbpedia.org/resource/James_VI_and_I" key="James VI and I">James</persName>,</l>
