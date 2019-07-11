@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
 
 
@@ -26,223 +23,671 @@
             </sourceDesc>
         </fileDesc>
         <xenoData>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:bibo="http://purl.org/ontology/bibo/">
-<rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
-	<cw:mode>0</cw:mode>
-	<cw:allowOverlap>false</cw:allowOverlap>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/15b4e08c-fcd0-49d4-a572-07eb0531698a">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/f7c0cd47-c6b0-4e60-b155-185a795e0c25"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q671859"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.057Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.057Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q671859","uriForDisplay":"https://www.wikidata.org/entity/Q671859","uri":"http://www.wikidata.org/entity/Q671859","name":"Old Possum's Book of Practical Cats","repository":"wikidata","originalQueryString":"Old possum","description":"Book of poems by TS Eliot"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q671859","level":"m","cert":"definite"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q671859"><cw:pubType xmlns:cw="http://cwrc.ca/ns/cw#">m</cw:pubType>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/title"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/f7c0cd47-c6b0-4e60-b155-185a795e0c25">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/c11fbaf0-16f6-4d84-be6d-19dfc1cdef79"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/6eef6790-a74f-4cc8-956b-69206b052d23"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/6eef6790-a74f-4cc8-956b-69206b052d23">
-	<rdf:value>xpointer(/TEI/text/body/head/title)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/832a290e-897a-4982-9a5c-477cda78221e">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/db8b464b-bbff-451a-9a4a-7dfd5c927a70"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/56609282/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.060Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.060Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/56609282/","uri":"http://viaf.org/viaf/56609282/","uriForDisplay":"https://viaf.org/viaf/56609282/","name":"Eliot, T.S. (Thomas Stearns), 1888-1965","repository":"VIAF","originalQueryString":"T. S. Eliot"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/56609282/","cert":"definite","type":"real"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/56609282/">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/db8b464b-bbff-451a-9a4a-7dfd5c927a70">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/9ea1b311-eb4f-4823-b16a-fc7e9ccae945"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/ca3e96a5-9651-443a-bde8-22531e4efc3a"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/ca3e96a5-9651-443a-bde8-22531e4efc3a">
-	<rdf:value>xpointer(/TEI/text/body/byline/docAuthor/persName)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/e592309e-fb19-4218-bdfd-f120dd9dc7b9">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/2413e416-f0e1-4645-bda9-eb0c439f2dfd"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q7753074"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.061Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.061Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q7753074","uriForDisplay":"https://www.wikidata.org/entity/Q7753074","uri":"http://www.wikidata.org/entity/Q7753074","name":"The Naming of Cats","repository":"wikidata","originalQueryString":"The Naming of Cats","description":"Poem by T.S Eliot"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q7753074","level":"m","cert":"definite"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q7753074"><cw:pubType xmlns:cw="http://cwrc.ca/ns/cw#">m</cw:pubType>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/BibliographicResource"/>
-	<rdf:type rdf:resource="http://purl.org/dc/terms/title"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/2413e416-f0e1-4645-bda9-eb0c439f2dfd">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/876c4030-5d95-48d9-ae95-97b7389962d5"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/8132adf9-1e4e-4616-83c1-ea8e82873007"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/8132adf9-1e4e-4616-83c1-ea8e82873007">
-	<rdf:value>xpointer(/TEI/text/body/div/head/title)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/82889ab9-989c-45bf-b190-5384df82f858">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/6bb9c642-988c-4e43-82d3-6f04a1fbc18f"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.wikidata.org/entity/Q19686"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.062Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.062Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"unknown","id":"http://www.wikidata.org/entity/Q19686","uriForDisplay":"https://www.wikidata.org/entity/Q19686","uri":"http://www.wikidata.org/entity/Q19686","name":"River Thames","repository":"wikidata","originalQueryString":"Thames","description":"river in southern England"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://www.wikidata.org/entity/Q19686","cert":"definite"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://www.wikidata.org/entity/Q19686">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/6bb9c642-988c-4e43-82d3-6f04a1fbc18f">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/c980b899-69b5-45ce-a11d-7e34dd26f5c3"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/eec9e1d1-e245-426c-bbe6-e3e35ce2b412"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/eec9e1d1-e245-426c-bbe6-e3e35ce2b412">
-	<rdf:value>xpointer(/TEI/text/body/div[3]/lg/l[4]/placeName)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/b4b9b814-f68f-49d9-82ae-76ba6d44e198">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/e38d639a-8309-447c-a17e-62f1ca48d327"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Bill_Bailey_(outfielder)"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.064Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.064Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#speculative"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"person","id":"http://dbpedia.org/resource/Bill_Bailey_(outfielder)","uri":"http://dbpedia.org/resource/Bill_Bailey_(outfielder)","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/Bill_Bailey_(outfielder)","name":"Bill Bailey (outfielder)","repository":"dbpedia","originalQueryString":"Bill Bailey","description":"Harry Lewis \"Bill\" Bailey (November 19, 1881 in Shawnee, Ohio; died October 27, 1967 in Seattle, Washington) was an outfielder in Major League Baseball."}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"speculative","ref":"http://dbpedia.org/resource/Bill_Bailey_(outfielder)","type":"real"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Bill_Bailey_(outfielder)">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/e38d639a-8309-447c-a17e-62f1ca48d327">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/4a09fb87-c2c4-4c96-b86a-a0d2a594ab0b"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/864a41da-902c-4b95-8d9d-a4d009da67f9"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/864a41da-902c-4b95-8d9d-a4d009da67f9">
-	<rdf:value>xpointer(/TEI/text/body/div/l[7]/persName[2])</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/58294966-f286-495a-a404-7d327bd99565">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/3d1e1c92-23bb-461f-9e12-c2c9e2759bb7"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/George_V"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.064Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.064Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"person","id":"http://dbpedia.org/resource/George_V","uri":"http://dbpedia.org/resource/George_V","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/George_V","name":"George V","repository":"dbpedia","originalQueryString":"George","description":"George V (George Frederick Ernest Albert; 3 June 1865 – 20 January 1936) was King of the United Kingdom and the British Dominions, and Emperor of India, from 6 May 1910 through the First World War (1914–1918) until his death in 1936. George was a grandson of Queen Victoria and Prince Albert and the first cousin of Tsar Nicholas II of Russia and Kaiser Wilhelm II of Germany. From 1877 to 1891, he served in the Royal Navy."}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/George_V","cert":"definite","type":"real"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/George_V">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/3d1e1c92-23bb-461f-9e12-c2c9e2759bb7">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/42e828b0-d505-4f8f-95a2-7c85299bce07"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/7c8650ef-01d2-4e89-983b-5f42f22a5c3d"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/7c8650ef-01d2-4e89-983b-5f42f22a5c3d">
-	<rdf:value>xpointer(/TEI/text/body/div/l[7]/persName)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/508c7eae-4738-4f0b-8123-97f0c10e6105">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/c15d740a-d308-45c8-9c7a-c792783a4ab5"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/note/11d8c503-44b6-4162-a114-5c56d993c71c"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.065Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.065Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#commenting"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"scholarNote"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/note/11d8c503-44b6-4162-a114-5c56d993c71c">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://purl.org/ontology/bibo/Note"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/c15d740a-d308-45c8-9c7a-c792783a4ab5">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/01d1abd8-2292-4c68-86a7-aa733e22dace"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/ae68d661-a9ae-4c3c-9f5f-e03c7cb6bc87"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/ae68d661-a9ae-4c3c-9f5f-e03c7cb6bc87">
-	<rdf:value>xpointer(/TEI/text/body/div[3]/lg[14]/l[4]/note)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/4b2bfb0b-3902-4ca7-afb7-cfcc8a146428">
-	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/cb17a607-81f6-4004-8e4b-7cd97829d0a4"/>
-	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/person/6836c0cb-93bf-4736-b01e-38046382119f"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/7ac8e34e-63c2-4a1f-93e5-5d946f1b8a64"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.065Z</oa:annotatedAt>
-	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-04-17T14:27:02.065Z</oa:serializedAt>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
-	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"key":"Bombalurina","ref":"http://www.wikidata.org/entity/Q4940465"}</cw:cwrcAttributes>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/6836c0cb-93bf-4736-b01e-38046382119f">
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
-	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/cb17a607-81f6-4004-8e4b-7cd97829d0a4">
-	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/dfc7ec6f-9b05-41e8-b147-424c2bd6de73"/>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
-	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/a10c3d95-68cc-43f9-aa08-439fd934aa67"/>
-</rdf:Description>
-<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/a10c3d95-68cc-43f9-aa08-439fd934aa67">
-	<rdf:value>xpointer(/TEI/text/body/div/l[19]/persName)</rdf:value>
-	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
-</rdf:Description></rdf:RDF></xenoData><encodingDesc>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/head/title_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.326Z",
+	"dcterms:issued": "2019-07-11T22:03:00.569Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/head/title_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/head/title_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/head/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q671859",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/byline/docAuthor/persName_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.334Z",
+	"dcterms:issued": "2019-07-11T22:03:00.572Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/byline/docAuthor/persName_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/byline/docAuthor/persName_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/byline/docAuthor/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/56609282/",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/head/title_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.337Z",
+	"dcterms:issued": "2019-07-11T22:03:00.573Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/head/title_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/head/title_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/head/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q7753074",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg/l[4]/placeName_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.340Z",
+	"dcterms:issued": "2019-07-11T22:03:00.573Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg/l[4]/placeName_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg/l[4]/placeName_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/lg/l[4]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q19686",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName[2]_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.343Z",
+	"dcterms:issued": "2019-07-11T22:03:00.573Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName[2]_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName[2]_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/l[7]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/Bill_Bailey_(outfielder)",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:speculative"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.345Z",
+	"dcterms:issued": "2019-07-11T22:03:00.573Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[7]/persName_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/l[7]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/George_V",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	},
+	"oa:hasCertainty": "cwrc:definite"
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg[14]/l[4]/note_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.348Z",
+	"dcterms:issued": "2019-07-11T22:03:00.573Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg[14]/l[4]/note_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div[3]/lg[14]/l[4]/note_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[3]/lg[14]/l[4]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/html",
+		"rdf:value": "\n                This is the last word in the poem.\n            "
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[19]/persName_20190711155527",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:55:27.351Z",
+	"dcterms:issued": "2019-07-11T22:03:00.574Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[19]/persName_20190711155527#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[19]/persName_20190711155527#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/l[19]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q4940465",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description>
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/"><![CDATA[
+{
+	"@context": {
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en"
+	},
+	"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[6]/persName[3]_20190711155852",
+	"@type": "oa:Annotation",
+	"dcterms:created": "2019-07-11T21:58:52.953Z",
+	"dcterms:issued": "2019-07-11T22:03:00.574Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/ilovan",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Mihaela Ilovan",
+		"foaf:nick": "ilovan"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[6]/persName[3]_20190711155852#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://cwrc-writer.cwrc.ca/",
+			"@type": "as:Application",
+			"rdfs:label": "CWRC Writer",
+			"schema:softwareVersion": "1.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/ilovan/T.S.-Eliot---Old-Possum-s-Book-of-Practical-Cats-first-three-poems-/master/document.xml?TEI/text/body/div/l[6]/persName[3]_20190711155852#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/l[6]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://dbpedia.org/resource/James_VI_and_I",
+		"dc:format": "text/html"
+	},
+	"as:generator": {
+		"@id": "https://cwrc-writer.cwrc.ca/",
+		"@type": "as:Application",
+		"rdfs:label": "CWRC Writer",
+		"schema:url": "https://cwrc-writer.cwrc.ca",
+		"schema:softwareVersion": "1.0"
+	}
+}
+]]></rdf:Description></rdf:RDF></xenoData><encodingDesc>
             <appInfo> <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0" notAfter="2018-08-08T21:51:38.307Z"> <label>DOCX to TEI</label> </application> </appInfo>
         </encodingDesc>
         <revisionDesc>
@@ -259,12 +704,12 @@
                 <l>You may think at first I'm as mad as a hatter</l>
                 <l>When I tell you, a cat must have THREE DIFFERENT NAMES.</l>
                 <l>First of all, there's the name that the family use daily,</l>
-                <l>Such as Peter, Augustus, Alonzo or James,</l>
+                <l>Such as <persName>Peter</persName>, <persName>Augustus</persName>, Alonzo or <persName ref="http://dbpedia.org/resource/James_VI_and_I" key="James VI and I">James</persName>,</l>
                 <l>Such as Victor or Jonathan, <persName ref="http://dbpedia.org/resource/George_V" cert="definite" type="real">George</persName> or <persName cert="speculative" ref="http://dbpedia.org/resource/Bill_Bailey_(outfielder)" type="real">Bill Bailey</persName>—</l>
                 <l>All of them sensible everyday names.</l>
                 <l>There are fancier names if you think they sound sweeter,</l>
                 <l>Some for the gentlemen, some for the dames:</l>
-                <l>Such as Plato, Admetus, Electra, <persName key="Demeter"><persName key="Demeter">Demeter</persName></persName>—</l>
+                <l>Such as <persName>Plato</persName>, Admetus, Electra, <persName key="Demeter"><persName key="Demeter">Demeter</persName></persName>—</l>
                 <l>But all of them sensible everyday names.</l>
                 <l>But I tell you, a cat needs a name that's particular,</l>
                 <l>A name that's peculiar, and more dignified,</l>
